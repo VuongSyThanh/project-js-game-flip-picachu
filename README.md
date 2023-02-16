@@ -1,2 +1,10 @@
-# prj_js_game_flip_picachu
-# project-js-game-flip-picachu
+
+# Game-flip-pikachu
+
+flip card to match pikachu
+
+
+## Demo
+
+https://game-flip-picachu.vercel.app/
+
